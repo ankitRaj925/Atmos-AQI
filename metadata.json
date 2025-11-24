@@ -1,0 +1,8 @@
+
+{
+  "name": "Atmos - AI Air Quality",
+  "description": "A smart air quality search engine. Real-time AQI data, health advice, and pollutant analysis with client-side caching for optimal performance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
