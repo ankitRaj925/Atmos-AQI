@@ -77,7 +77,7 @@ project/
 Ankit Raj
 Building modern, scalable, and user-focused web applications.
 
-## 📜 License — MIT
+## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
 
